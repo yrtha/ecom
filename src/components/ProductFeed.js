@@ -16,10 +16,11 @@ function ProductFeed({ products }) {
           />
         ))}
 
-      <img className="col-span-full"
-       src="https://links.papareact.com/dyz" 
-       alt="" 
-       />
+      <img
+        className="col-span-full"
+        src="https://links.papareact.com/dyz"
+        alt=""
+      />
 
       <div className="md:col-span-2">
         {products
