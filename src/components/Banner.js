@@ -20,7 +20,7 @@ function Banner() {
           <img src="https://links.papareact.com/6ff" loading="lazy" alt="" />
         </div>
         <div className="">
-          <img src="https://links.papareact.com/7ma" loading="lazy" alt="" />
+          <img src="https://m.media-amazon.com/images/I/61DUO0NqyyL._SX3000_.jpg" loading="lazy" alt="" />
         </div>
       </Carousel>
     </div>
